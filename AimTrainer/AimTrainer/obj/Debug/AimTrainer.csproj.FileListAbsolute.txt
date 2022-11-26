@@ -1,0 +1,11 @@
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\bin\Debug\SpeedTyper.exe.config
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\bin\Debug\SpeedTyper.exe
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\bin\Debug\SpeedTyper.pdb
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\obj\Debug\SpeedTyper.Form1.resources
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\obj\Debug\SpeedTyper.Properties.Resources.resources
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\obj\Debug\AimTrainer.csproj.GenerateResource.cache
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\obj\Debug\AimTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\obj\Debug\SpeedTyper.exe
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\obj\Debug\SpeedTyper.pdb
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\obj\Debug\AimTrainer.csproj.AssemblyReference.cache
+C:\Users\Ayanda Gumede\Desktop\SpeedTyper\SpeedTyper\obj\Debug\SpeedTyper.StartScreen.resources
